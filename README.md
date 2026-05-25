@@ -1,68 +1,145 @@
-# Hey, I'm Sanjay Kumar 👋
+<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
+<h3 align="center">Software Developer | Full Stack Developer | Python Enthusiast</h3>
 
-**Aspiring Software Developer** based in Hyderabad, Telangana  
-B.Tech in Computer Science & Engineering — ICFAI University (2021–2025)  
-Currently training as a **Python Full Stack Developer** at Codegnan IT Solutions
+<p align="center">
+  Passionate about building scalable web applications, backend systems, and data-driven solutions using Python and modern web technologies.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a CS graduate with hands-on experience across Android development, backend systems, and data analytics. I enjoy building things that solve real problems — from attendance systems to logic-driven apps — and I'm always looking to expand my technical toolkit.
-
-- 🔭 Currently working on: **Smart Alarm** (logic-driven challenge app)
-- 🌱 Currently learning: **Python · Flask · SQL · Web Architecture**
-- 💼 Open to: Entry-level Software Developer / Programmer roles
-- 📍 Based in: Hyderabad, Telangana
+- 🎓 B.Tech CSE Graduate from ICFAI University
+- 💻 Focused on Full Stack Development and Backend Engineering
+- 🐍 Strong interest in Python, MySQL, and Web Applications
+- 📊 Exploring Data Analytics and Data Visualization
+- 🌱 Currently improving problem-solving and system design skills
+- ⚡ Love building practical real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask" />
+</p>
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
-**Tools & Platforms**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+### Analytics & Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Student Attendance Management System](https://github.com/Sanjay1318/student-attendance-management-system) | Role-based web app for tracking student attendance | PHP, MySQL |
-| [Retail Sales Performance Dashboard](https://github.com/Sanjay1318/Retail-Sales-Performance-Dashboard) | KPI dashboard for retail business decisions | Power BI |
-| [E-Commerce Customer Analytics](https://github.com/Sanjay1318/Ecommerce-Customer-Analytics) | End-to-end analytics pipeline for revenue insights | Python, SQL, Power BI |
-| [Titanic Survival Analysis](https://github.com/Sanjay1318/Titanic-Survival-Analysis) | EDA + Power BI dashboard on Titanic dataset | Python, Power BI |
+- Power BI
+- Data Visualization
+- File Handling
+- Regex
+- CRUD Operations
 
 ---
 
-## 🏆 Certifications
+## 🌟 Featured Projects
 
-- ☁️ AWS Certified Developer – Associate *(Amazon Web Services)*
-- 📊 Data Visualization – Empowering Business with Effective Insights *(Tata Group)*
-- 🎮 Software Engineering Job Simulation *(EA / Forage)*
-- 📘 Software Project Management *(Udemy)*
-- 🏅 TCS iON Career Edge – Young Professional
-- 🏅 NASSCOM – Certificate in Software Development
+### 🛒 FlaskCart – E-Commerce Web Application
+🔗 https://github.com/Sanjay1318/FlaskCart
+
+- Developed a full-stack e-commerce platform using Flask and MySQL
+- Implemented authentication, product management, and cart functionality
+- Built responsive UI with dynamic product handling
+- Integrated backend CRUD operations and database management
 
 ---
 
-## 📬 Connect With Me
+### 📌 MarkMyAttendance – Attendance Tracking Management System
+🔗 https://github.com/Sanjay1318/MarkMyAttendance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaychari007/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sanjay1318)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanjaychari999@gmail.com)
+- Built a web-based attendance management system
+- Designed frontend and backend workflow for attendance tracking
+- Implemented validation and MySQL database integration
+- Improved efficiency of student attendance management
+
+---
+
+### 📄 Resume Screener – AI-Based Resume Screening System
+🔗 https://github.com/Sanjay1318/Resume_Screener
+
+- Developed a Python-based resume evaluation system
+- Processed PDF and TXT resumes using file handling
+- Implemented regex-based keyword matching and scoring
+- Added exception handling for accurate analysis
+
+---
+
+### 📊 Titanic Survival Analysis – Data Analytics Project
+🔗 https://github.com/Sanjay1318/Titanic-Survival-Analysis
+
+- Performed exploratory data analysis on Titanic dataset
+- Used Python libraries for data cleaning and visualization
+- Analyzed passenger survival patterns and trends
+- Generated insights using statistical techniques
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay1318&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay1318&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🌐 Portfolio & Profiles
+
+- 🌍 Portfolio: https://sanjay1318.github.io/portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/sanjaychari007
+- 📧 Email: sanjaychari999@gmail.com
+
+---
+
+## 📌 Current Focus
+
+```python
+class Sanjay:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.language = ["Python", "JavaScript", "Java"]
+        self.database = ["MySQL"]
+        self.interests = [
+            "Backend Development",
+            "Full Stack Applications",
+            "Data Analytics",
+            "Problem Solving"
+        ]
+
+    def currently_learning(self):
+        return [
+            "Advanced Python",
+            "System Design",
+            "Backend Architecture"
+        ]
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/sanjaychari007" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/Sanjay1318" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Building projects, learning continuously, and growing as a developer.
+</p>
